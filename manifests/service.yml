@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: whalephp-svc
+spec:
+  externalTrafficPolicy: Local
+  healthCheckNodePort: 32439
+  ports:
+  - nodePort: 30931
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    app: whalephp
+  sessionAffinity: None
+  type: LoadBalancer
+status:
+  loadBalancer: {}

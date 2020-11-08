@@ -4,7 +4,7 @@
  </head>
  <body>
 <body bgcolor="#f1f1f1" text="Blue">
-<img src="https://nadavstrg.blob.core.windows.net/public/docker-gif-.gif" alt="Docker">
+<img src="0919.sdt-github.gif" alt="Docker">
 <h1>If you're seeing this, your website works!!</h1>
 <?php
 echo "<br>";

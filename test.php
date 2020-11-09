@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Having fun with GitHub Actions!!!!</title>
+  <title>Having fun with GitHub Actions!!!!:-)</title>
  </head>
  <body>
 <body bgcolor="#f1f1f1" text="Blue">

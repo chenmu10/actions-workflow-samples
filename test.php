@@ -1,11 +1,11 @@
 <html>
  <head>
-  <title>Having fun with GitHub Actions!!!!:-)</title>
+  <title>Having fun with GitHub Actions</title>
  </head>
  <body>
 <body bgcolor="#f1f1f1" text="Blue">
 <img src="https://shaystorageghactions.blob.core.windows.net/public/0919.sdt-github.gif" alt="Docker">
-<h1>If you're seeing this, your website works!!</h1>
+<h1>If you're seeing this, your website works!! :-)</h1>
 <?php
 echo "<br>";
 echo 'IP Address is ';

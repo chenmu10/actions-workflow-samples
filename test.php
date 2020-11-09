@@ -7,17 +7,6 @@
 <img src="https://shaystorageghactions.blob.core.windows.net/public/0919.sdt-github.gif" alt="Docker">
 <h1>Yay, If you're seeing this, your website works perfectly!! :-)</h1>
 <?php
-echo "<br>";
-echo 'IP Address is ';
-$external_ip = exec('curl http://ipecho.net/plain; echo');
-echo $_SERVER['REMOTE_ADDR'];
-echo "<br>";
-echo 'Your browser is ';
-echo $_SERVER['HTTP_USER_AGENT'];
-echo "<br>";
-echo 'This webpage is powered by Azure Kubernetes Service 1.17.9 and is deployed by GitHub Actions ';
-echo "<br>";
-
 ?> 
  </body>
 </html>

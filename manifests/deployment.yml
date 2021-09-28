@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: whalephp
-        image: ${{ secrets.REGISTRY_NAME }}.azurecr.io/myimage
+        image: contosocontainerregistry24744.azurecr.io/myimage
         imagePullPolicy: Always
         ports:
         - containerPort: 80
